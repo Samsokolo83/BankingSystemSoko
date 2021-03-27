@@ -1,0 +1,449 @@
+[1;31m
+Start test 1[0m
+database in auto-commit mode
+1. Create an account
+2. Log into account
+	0. Exit
+> 0
+Bye!
+[1;31m
+Start test 2[0m
+database in auto-commit mode
+1. Create an account
+2. Log into account
+	0. Exit
+> 0
+Bye!
+[1;31m
+Start test 3[0m
+database in auto-commit mode
+1. Create an account
+2. Log into account
+	0. Exit
+> 0
+Bye!
+[1;31m
+Start test 4[0m
+database in auto-commit mode
+1. Create an account
+2. Log into account
+	0. Exit
+> 0
+Bye!
+[1;31m
+Start test 5[0m
+database in auto-commit mode
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+database in auto-commit mode
+Your card has been created
+Your card number:
+4000006116845115
+Your card PIN:
+1771
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+database in auto-commit mode
+Your card has been created
+Your card number:
+4000007838743455
+Your card PIN:
+6060
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+database in auto-commit mode
+Your card has been created
+Your card number:
+4000008331272505
+Your card PIN:
+7767
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+database in auto-commit mode
+Your card has been created
+Your card number:
+4000000820833228
+Your card PIN:
+2400
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+database in auto-commit mode
+Your card has been created
+Your card number:
+4000003603614120
+Your card PIN:
+8312
+1. Create an account
+2. Log into account
+	0. Exit
+> 0
+Bye!
+4000006116845115
+4000007838743455
+4000008331272505
+4000000820833228
+4000003603614120
+[1;31m
+Start test 6[0m
+database in auto-commit mode
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+database in auto-commit mode
+Your card has been created
+Your card number:
+4000006116845115
+Your card PIN:
+1771
+1. Create an account
+2. Log into account
+	0. Exit
+> 2
+Enter your card number:
+> 4000006116845115
+Enter your PIN:
+> 1771
+"You have successfully logged in!
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 0
+Bye!
+[1;31m
+Start test 7[0m
+database in auto-commit mode
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+database in auto-commit mode
+Your card has been created
+Your card number:
+4000006116845115
+Your card PIN:
+1771
+1. Create an account
+2. Log into account
+	0. Exit
+> 2
+Enter your card number:
+> 4000006116845115
+Enter your PIN:
+> 5593
+Wrong card number or PIN!
+1. Create an account
+2. Log into account
+	0. Exit
+> 0
+Bye!
+[1;31m
+Start test 8[0m
+database in auto-commit mode
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+database in auto-commit mode
+Your card has been created
+Your card number:
+4000006116845115
+Your card PIN:
+1771
+1. Create an account
+2. Log into account
+	0. Exit
+> 2
+Enter your card number:
+> 400000183573847
+Enter your PIN:
+> 1771
+Wrong card number or PIN!
+1. Create an account
+2. Log into account
+	0. Exit
+> 0
+Bye!
+[1;31m
+Start test 9[0m
+database in auto-commit mode
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+database in auto-commit mode
+Your card has been created
+Your card number:
+4000006116845115
+Your card PIN:
+1771
+1. Create an account
+2. Log into account
+	0. Exit
+> 2
+Enter your card number:
+> 4000006116845115
+Enter your PIN:
+> 1771
+"You have successfully logged in!
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 1
+Balance: 0
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 0
+Bye!
+[1;31m
+Start test 10[0m
+database in auto-commit mode
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+database in auto-commit mode
+Your card has been created
+Your card number:
+4000006116845115
+Your card PIN:
+1771
+1. Create an account
+2. Log into account
+	0. Exit
+> 2
+Enter your card number:
+> 4000006116845115
+Enter your PIN:
+> 1771
+"You have successfully logged in!
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 2
+Enter income:
+> 10000
+database in auto-commit mode
+Income was added!
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 0
+Bye!
+database in auto-commit mode
+1. Create an account
+2. Log into account
+	0. Exit
+> 2
+Enter your card number:
+> 4000006116845115
+Enter your PIN:
+> 1771
+"You have successfully logged in!
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 2
+Enter income:
+> 15000
+database in auto-commit mode
+Income was added!
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 0
+Bye!
+[1;31m
+Start test 11[0m
+database in auto-commit mode
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+database in auto-commit mode
+Your card has been created
+Your card number:
+4000006116845115
+Your card PIN:
+1771
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+database in auto-commit mode
+Your card has been created
+Your card number:
+4000007838743455
+Your card PIN:
+6060
+1. Create an account
+2. Log into account
+	0. Exit
+> 2
+Enter your card number:
+> 4000007838743455
+Enter your PIN:
+> 6060
+"You have successfully logged in!
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 3
+
+Transfer
+Enter card number:
+> 2000007269641764
+CProbably you made a mistake in the card number. Please try again!
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 3
+
+Transfer
+Enter card number:
+> 2000007269641768
+ResultSet closed
+Such a card does not exist.
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 3
+
+Transfer
+Enter card number:
+> 4000006116845115
+,Enter how much money you want to transfer:
+	> 100000
+
+100000 0
+Not enough money!
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 2
+Enter income:
+> 20000
+database in auto-commit mode
+Income was added!
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 3
+
+Transfer
+Enter card number:
+> 4000006116845115
+,Enter how much money you want to transfer:
+> 10000
+10000 20000
+database in auto-commit mode
+database in auto-commit mode
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 0
+Bye!
+[1;31m
+Start test 12[0m
+database in auto-commit mode
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+database in auto-commit mode
+Your card has been created
+Your card number:
+4000006116845115
+Your card PIN:
+1771
+1. Create an account
+2. Log into account
+	0. Exit
+> 2
+Enter your card number:
+> 4000006116845115
+Enter your PIN:
+> 1771
+"You have successfully logged in!
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 4
+database in auto-commit mode
+The account has been closed!
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 0
+Bye!
